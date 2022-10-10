@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#58DB69</color>
+    <color name="colorPrimaryVariant">#3FCC70</color>
+    <color name="colorPrimaryDark">#3FCC70</color>
+    <!--  Color for Text Cursor etc.  -->
+    <color name="colorSecondary">#3FCC70</color>
+    <color name="colorWearingo">@color/colorSecondary</color>
+    <color name="black">#FF000000</color>
+    <color name="only_black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="only_white">#FFFFFFFF</color>
+
+    <color name="colorBackground">#FFFFFFFF</color>
+    <color name="colorPurple">@color/colorSecondary</color>
+    <color name="colorGray">#59595F</color>
+    <color name="colorOnlyGray">#59595F</color>
+    <color name="colorLightGray">#EBEBEB</color>
+    <color name="colorLightPink">#F8EDF6</color>
+    <color name="colorYellow">#E68A2E</color>
+    <color name="colorBlue">#2473F1</color>
+    <color name="ucrop_color_statusbar">@color/colorSecondary</color>
+    <color name="color_green">#00be82</color>
+
+
+    <color name="default_foreground_color">#C0C0C0</color>
+    <color name="color_red">#E91E3C</color>
+    <color name="color_due">#fd7d43</color>
+    <color name="light_blue">#F3F2F8</color>
+
+</resources>

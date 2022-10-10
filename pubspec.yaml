@@ -1,0 +1,81 @@
+# App Info.
+name: gaadidho
+description: GaadiDho Flutter Project, Version 1 - created on 18 july by Swaraj Kumar Singh
+publish_to: 'none' 
+version: 1.0.0+1
+
+# Flutter Version 3
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+
+# Application Dependencies
+dependencies:
+
+# flutter SDK - for compiling app. 
+  flutter:
+    sdk: flutter
+
+# For Requests to the Server
+  http: ^0.13.4
+
+# For Carousel Slider
+  carousel_slider: ^4.1.1
+
+#  IOS Icons
+  cupertino_icons: ^1.0.2
+
+# Re-direct to whatsapp 
+  url_launcher: ^6.0.12
+
+# Share App on Multi-Platform
+  share_plus: ^4.0.10
+
+# File Picker
+  file_picker: ^4.6.1
+
+# Firebase Connection
+  firebase_core: ^1.20.0
+
+# Firebase Auth
+  firebase_auth: ^3.5.0
+
+# Flutter Toast
+  fluttertoast: ^8.0.9
+
+# Fot internet connection
+  connectivity_plus: ^2.3.6
+
+# State management
+  get: ^4.6.5
+
+# For user device info
+  device_info_plus: ^4.0.0
+
+# For local Storage
+  get_storage: ^2.0.3
+
+
+# Dev Dependencies`
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+
+# Adding assets.
+  assets:
+    - assets/fonts/
+    
+# Adding Fonts
+  fonts:
+    - family: poppins
+      fonts:
+        - asset: assets/fonts/poppins.ttf
+          weight: 400
+        - asset: assets/fonts/poppins_medium.ttf
+          weight: 500
+        - asset: assets/fonts/poppins_semi_bold.ttf
+          weight: 600
+        - asset: assets/fonts/poppins_extra_bold.ttf
+          weight: 800

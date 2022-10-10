@@ -1,0 +1,35 @@
+AUTH:-
+	/login =	const loginMethod = requestBody.method;
+            		const payload = requestBody.payload;
+            		const phoneNumber = requestBody.phoneNumber;
+            		const deviceId = requestBody.deviceId;
+            		const deviceName = requestBody.deviceName;
+
+	/login/bike-dho =      const loginMethod = requestBody.method;
+            			const payload = requestBody.payload;
+            			const phoneNumber = requestBody.phoneNumber;
+            			const deviceId = requestBody.deviceId;
+            			const deviceName = requestBody.deviceName;
+            			const referredBy = requestBody.referredBy;
+
+	/bike-dho-home = GET REQ - AUTH PROTECTED 
+
+
+
+	/guest-login =          const loginMethod = requestBody.method;
+            			const payload = requestBody.payload;
+            			const phoneNumber = requestBody.phoneNumber;
+            			const deviceId = requestBody.deviceId;
+            			const deviceName = requestBody.deviceName;
+
+
+BIKE-DHO routes = POST(4) GET(5) PATCH(1) 
+
+
+
+
+
+
+
+	
+	
