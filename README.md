@@ -6,6 +6,27 @@ Union Startup revolutionizing, the Bike wash industry... building cheap and sust
 ## NOTE :-
 This public repo **contains only UI part of the start-up**. This repo is not associated with Backend.
 
+## Installation
+
+### 1. Run pub get (Install All packages)
+
+```
+flutter pub get
+```
+
+#### Folder Structure
+
+```yaml
+lib
+- common
+- features
+- routes
+- main.dart
+```
+
+
+## **Download Starter Project APK From Google Play Store [here!](https://play.google.com/store/apps/details?id=com.wash.gaadidho)**
+
 ## Screenshots
 
 |  |  |  |
